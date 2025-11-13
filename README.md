@@ -7,5 +7,8 @@
 
 ## نصب محلی
 ```bash
-pip install -r requirements.txt
-python bot.py
+python-telegram-bot==20.7
+instaloader
+requests
+
+
